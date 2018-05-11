@@ -14,10 +14,10 @@ function evenOddExtended(userInput) {
                 console.log('Your number is odd!');
             }
         } else {
-            console.log('Your number is not a positive nuumber.');
+            console.log('Your number is not a positive number.');
         }
     } else {
-        console.log('Your number is not an interger.');
+        console.log('Your input is not an integer.');
     }
 }
 
